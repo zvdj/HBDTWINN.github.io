@@ -100,11 +100,6 @@ body {
   z-index: 1;
 }
 
-.six img {
-  display: inline-block;
-  height: 350px;
-  max-width: 100%;
-}
 
 .baloons img {
   display: inline-block;
